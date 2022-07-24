@@ -15,6 +15,5 @@
 <br>
 
 ## I'm a Problem Solver.
-###  Software Developer, Electronics and IoT Hobbyist, Nuclear Reactor Physics Researcher.
-
+### Learning to be and give my best every day
 
